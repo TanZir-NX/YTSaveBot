@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+yt-dlp
+aiohttp
+ffmpeg-python
+Flask
+python-dotenv
+requests
